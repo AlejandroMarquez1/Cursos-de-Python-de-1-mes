@@ -1,3 +1,5 @@
+# How To Use Functions In Python (Python Tutorial #3)
+
 def function():
     print("Ahhhhhh")
     print("ahhh2 ")
@@ -25,7 +27,7 @@ print(result)
 
 def function4(x):
     print(x)
-    print("still in this fuction")
+    print("still in this function")
     return 3 * x
 
 
